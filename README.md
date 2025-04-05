@@ -1,2 +1,3 @@
-Analyzed global volleyball player data sourced from Kaggle to explore player stats, country-wise distribution, and performance trends. Used Python, Pandas, Seaborn, and Matplotlib to visualize insights and support talent scouting and team analysis![volleyball](https://github.com/user-attachments/assets/7ea72427-423e-47ae-8c46-4cd0f12b02f4)
-![volleyball](https://github.com/user-attachments/assets/a46fd883-3142-44ee-9d18-400cd21d5c87)
+Analyzed global volleyball player data sourced from Kaggle to explore player stats, country-wise distribution, and performance trends. Used Python, Pandas, Seaborn, and Matplotlib to visualize insights and support talent scouting and team analysis
+
+
